@@ -1,0 +1,80 @@
+{
+  "K": 5,
+  "R": 10,
+  "grid": 0.05,
+  "min_test": 20,
+  "seed": 8,
+  "bat": {
+    "judgement": {
+      "value": 0.5375,
+      "consistency": 0.2375,
+      "clutch": 0.0,
+      "impact": 0.175,
+      "volume": 0.05
+    },
+    "best": {
+      "value": 0.0,
+      "consistency": 1.0,
+      "clutch": 0.0,
+      "impact": 0.0,
+      "volume": 0.0
+    },
+    "chosen": {
+      "value": 0.5375,
+      "consistency": 0.2375,
+      "clutch": 0.0,
+      "impact": 0.175,
+      "volume": 0.05
+    },
+    "score_judgement": 0.027,
+    "score_best": 0.059,
+    "score_chosen": 0.027,
+    "se_diff_judgement": 0.0417,
+    "n_within_1se": 1406,
+    "single_component": {
+      "value": 0.0168,
+      "consistency": 0.059,
+      "impact": 0.0074,
+      "volume": -0.0211
+    },
+    "median_players_per_fold": 85,
+    "folds": 50
+  },
+  "bowl": {
+    "judgement": {
+      "value": 0.43,
+      "consistency": 0.19,
+      "clutch": 0.19,
+      "impact": 0.14,
+      "volume": 0.05
+    },
+    "best": {
+      "value": 1.0,
+      "consistency": 0.0,
+      "clutch": 0.0,
+      "impact": 0.0,
+      "volume": 0.0
+    },
+    "chosen": {
+      "value": 0.55,
+      "consistency": 0.05,
+      "clutch": 0.15,
+      "impact": 0.15,
+      "volume": 0.1
+    },
+    "score_judgement": 0.1541,
+    "score_best": 0.1978,
+    "score_chosen": 0.1769,
+    "se_diff_judgement": 0.0299,
+    "n_within_1se": 506,
+    "single_component": {
+      "value": 0.1978,
+      "consistency": 0.0392,
+      "clutch": 0.0039,
+      "impact": 0.0942,
+      "volume": 0.0733
+    },
+    "median_players_per_fold": 84,
+    "folds": 50
+  }
+}

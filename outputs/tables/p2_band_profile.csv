@@ -1,0 +1,4 @@
+pressure_band,deliveries,share_%,mean_LI,mean_stress,mean_realised_wp_swing,strike_rate,dismissal_%,dot_%,boundary_%,economy,balls_per_wkt
+low,100480,50.0,0.4,18.165,0.006,140.145,5.415,36.381,19.297,8.759,18.891
+medium,60288,30.0,1.11,26.38,0.016,139.153,5.236,34.923,18.585,8.683,19.679
+high,40193,20.0,2.335,39.431,0.033,138.197,6.02,32.624,17.243,8.659,17.209

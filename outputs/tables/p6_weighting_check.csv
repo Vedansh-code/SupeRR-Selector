@@ -1,0 +1,101 @@
+cutoff,role,setup,target,n,r
+2024-01-01,bat,no weighting,all matches,27,-0.22529647753181342
+2024-01-01,bat,no weighting,IPL only,26,-0.0017849438921986613
+2024-01-01,bat,recency only,all matches,27,-0.1846388393830293
+2024-01-01,bat,recency only,IPL only,26,0.050979526621679254
+2024-01-01,bat,IPL tilt only,all matches,27,-0.1969623693593226
+2024-01-01,bat,IPL tilt only,IPL only,26,0.03895035858586109
+2024-01-01,bat,opponent only,all matches,27,-0.20055191448760107
+2024-01-01,bat,opponent only,IPL only,26,0.03950197645620922
+2024-01-01,bat,all three (in use),all matches,27,-0.1704160332288154
+2024-01-01,bat,all three (in use),IPL only,26,0.07174932699703161
+2024-01-01,bowl,no weighting,all matches,27,0.13040943073307312
+2024-01-01,bowl,no weighting,IPL only,21,0.010959129890095462
+2024-01-01,bowl,recency only,all matches,27,0.1270751863023354
+2024-01-01,bowl,recency only,IPL only,21,7.902497046056145e-05
+2024-01-01,bowl,IPL tilt only,all matches,27,0.14927641442753767
+2024-01-01,bowl,IPL tilt only,IPL only,21,0.010248610400260623
+2024-01-01,bowl,opponent only,all matches,27,0.12993711763529986
+2024-01-01,bowl,opponent only,IPL only,21,0.004455417006798834
+2024-01-01,bowl,all three (in use),all matches,27,0.14678385343781838
+2024-01-01,bowl,all three (in use),IPL only,21,-0.0008379661786590463
+2024-07-01,bat,no weighting,all matches,36,-0.07124981545202212
+2024-07-01,bat,no weighting,IPL only,32,0.07216453294647865
+2024-07-01,bat,recency only,all matches,36,-0.06359840530806557
+2024-07-01,bat,recency only,IPL only,32,0.07267278660117914
+2024-07-01,bat,IPL tilt only,all matches,36,-0.06710039729868798
+2024-07-01,bat,IPL tilt only,IPL only,32,0.07199678330003073
+2024-07-01,bat,opponent only,all matches,36,-0.07403122861263912
+2024-07-01,bat,opponent only,IPL only,32,0.07043113929063843
+2024-07-01,bat,all three (in use),all matches,36,-0.054949312964849166
+2024-07-01,bat,all three (in use),IPL only,32,0.0821037779509331
+2024-07-01,bowl,no weighting,all matches,39,0.24999509474705525
+2024-07-01,bowl,no weighting,IPL only,36,0.18136350658298103
+2024-07-01,bowl,recency only,all matches,39,0.2286704160620364
+2024-07-01,bowl,recency only,IPL only,36,0.1683807787616945
+2024-07-01,bowl,IPL tilt only,all matches,39,0.2568827685312146
+2024-07-01,bowl,IPL tilt only,IPL only,36,0.17628688264207104
+2024-07-01,bowl,opponent only,all matches,39,0.257167857894961
+2024-07-01,bowl,opponent only,IPL only,36,0.18754192331907166
+2024-07-01,bowl,all three (in use),all matches,39,0.2569352995385821
+2024-07-01,bowl,all three (in use),IPL only,36,0.17170924408243776
+2025-01-01,bat,no weighting,all matches,40,0.05679908225321892
+2025-01-01,bat,no weighting,IPL only,33,0.07382493337126352
+2025-01-01,bat,recency only,all matches,40,0.042818615904531065
+2025-01-01,bat,recency only,IPL only,33,0.06147455638833029
+2025-01-01,bat,IPL tilt only,all matches,40,0.07688742489276051
+2025-01-01,bat,IPL tilt only,IPL only,33,0.06474082892156778
+2025-01-01,bat,opponent only,all matches,40,0.06039428173038375
+2025-01-01,bat,opponent only,IPL only,33,0.05398661541861068
+2025-01-01,bat,all three (in use),all matches,40,0.058251161218392
+2025-01-01,bat,all three (in use),IPL only,33,0.06568209166725093
+2025-01-01,bowl,no weighting,all matches,40,0.3115863307276589
+2025-01-01,bowl,no weighting,IPL only,35,0.31107214267625954
+2025-01-01,bowl,recency only,all matches,40,0.3056515700889768
+2025-01-01,bowl,recency only,IPL only,35,0.3065310669739857
+2025-01-01,bowl,IPL tilt only,all matches,40,0.326791119867662
+2025-01-01,bowl,IPL tilt only,IPL only,35,0.31046922540526634
+2025-01-01,bowl,opponent only,all matches,40,0.31499149451308395
+2025-01-01,bowl,opponent only,IPL only,35,0.323965296388384
+2025-01-01,bowl,all three (in use),all matches,40,0.3461316292320853
+2025-01-01,bowl,all three (in use),IPL only,35,0.31611587092291504
+2025-07-01,bat,no weighting,all matches,52,-0.12282541824001687
+2025-07-01,bat,no weighting,IPL only,42,-0.2890137843786541
+2025-07-01,bat,recency only,all matches,52,-0.11703936881930896
+2025-07-01,bat,recency only,IPL only,42,-0.2612237839744366
+2025-07-01,bat,IPL tilt only,all matches,52,-0.11155982664821659
+2025-07-01,bat,IPL tilt only,IPL only,42,-0.27102026669706036
+2025-07-01,bat,opponent only,all matches,52,-0.10745704495828043
+2025-07-01,bat,opponent only,IPL only,42,-0.24907682076561719
+2025-07-01,bat,all three (in use),all matches,52,-0.1029338406412691
+2025-07-01,bat,all three (in use),IPL only,42,-0.23044832395828002
+2025-07-01,bowl,no weighting,all matches,43,0.3091265213540275
+2025-07-01,bowl,no weighting,IPL only,29,0.4627390420517258
+2025-07-01,bowl,recency only,all matches,43,0.31236444063859947
+2025-07-01,bowl,recency only,IPL only,29,0.44906029792008834
+2025-07-01,bowl,IPL tilt only,all matches,43,0.31707765277107525
+2025-07-01,bowl,IPL tilt only,IPL only,29,0.4697191226055205
+2025-07-01,bowl,opponent only,all matches,43,0.30197744059525966
+2025-07-01,bowl,opponent only,IPL only,29,0.4600043288226879
+2025-07-01,bowl,all three (in use),all matches,43,0.3175983580148618
+2025-07-01,bowl,all three (in use),IPL only,29,0.4534236053523283
+2026-01-01,bat,no weighting,all matches,45,-0.24119715017882712
+2026-01-01,bat,no weighting,IPL only,43,-0.32743969587139193
+2026-01-01,bat,recency only,all matches,45,-0.21734727384378147
+2026-01-01,bat,recency only,IPL only,43,-0.31089890303514806
+2026-01-01,bat,IPL tilt only,all matches,45,-0.2229997386168477
+2026-01-01,bat,IPL tilt only,IPL only,43,-0.313489264981059
+2026-01-01,bat,opponent only,all matches,45,-0.2006221647320261
+2026-01-01,bat,opponent only,IPL only,43,-0.28227033531810897
+2026-01-01,bat,all three (in use),all matches,45,-0.17819390299832438
+2026-01-01,bat,all three (in use),IPL only,43,-0.27048965009571985
+2026-01-01,bowl,no weighting,all matches,34,0.3408283162677435
+2026-01-01,bowl,no weighting,IPL only,28,0.410272196119526
+2026-01-01,bowl,recency only,all matches,34,0.3242650604640085
+2026-01-01,bowl,recency only,IPL only,28,0.3894572221243753
+2026-01-01,bowl,IPL tilt only,all matches,34,0.34875053943951934
+2026-01-01,bowl,IPL tilt only,IPL only,28,0.4187930041735787
+2026-01-01,bowl,opponent only,all matches,34,0.3418567288773116
+2026-01-01,bowl,opponent only,IPL only,28,0.4090501660666443
+2026-01-01,bowl,all three (in use),all matches,34,0.3329632302375287
+2026-01-01,bowl,all three (in use),IPL only,28,0.3943499715237873

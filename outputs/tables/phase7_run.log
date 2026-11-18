@@ -1,0 +1,63 @@
+  replicate 25/500
+  replicate 50/500
+  replicate 75/500
+  replicate 100/500
+  replicate 125/500
+  replicate 150/500
+  replicate 175/500
+  replicate 200/500
+  replicate 225/500
+  replicate 250/500
+  replicate 275/500
+  replicate 300/500
+  replicate 325/500
+  replicate 350/500
+  replicate 375/500
+  replicate 400/500
+  replicate 425/500
+  replicate 450/500
+  replicate 475/500
+  replicate 500/500
+# Phase 7: robustness to all judgement calls at once
+
+500 replicates; each redraws every setting (pressure definition, evidence weights, rating weights, track-record weight, recent-data nerf) and resamples matches. Tiers: Lock >= 75% in the top 10, Strong 50-75%, Contender 25-50%, Long shot < 25%.
+
+## Batters
+                name  rank  p_top10  p_top10_settings_only  median_rank 90%_rank_range      tier
+        Shreyas Iyer   1.0     0.92                   1.00          3.0           1-14      Lock
+    Suryakumar Yadav   2.0     0.92                   1.00          3.0           1-13      Lock
+    Heinrich Klaasen   3.0     0.87                   1.00          4.0           1-16      Lock
+         Virat Kohli   4.0     0.45                   0.81         11.0           3-46 Contender
+           Tim David   5.0     0.69                   1.00          6.0           1-33    Strong
+     Abhishek Sharma   6.0     0.59                   0.98          7.0           1-42    Strong
+     Ashutosh Sharma   7.0     0.31                   0.61         14.0           2-70 Contender
+Namboori Tilak Varma   8.0     0.59                   1.00          8.0           1-40    Strong
+       Cameron Green   9.0     0.25                   0.41         21.0           4-64 Contender
+    Yashasvi Jaiswal  10.0     0.14                   0.15         25.0           6-76 Long shot
+        Rohit Sharma  11.0     0.11                   0.03         36.0           7-97 Long shot
+      Shashank Singh  12.0     0.25                   0.21         19.0           4-59 Long shot
+       Dewald Brevis  13.0     0.19                   0.01         22.0           4-78 Long shot
+          Sam Curran  14.0     0.12                   0.06         31.0           7-85 Long shot
+         Riyan Parag  15.0     0.12                   0.00         31.0           7-74 Long shot
+       Andre Russell  16.0     0.20                   0.20         22.0           4-76 Long shot
+     Nicholas Pooran  20.0     0.27                   0.26         21.0           3-74 Contender
+       Rovman Powell  29.0     0.27                   0.48         18.0           4-65 Contender
+
+## Bowlers
+               name  rank  p_top10  p_top10_settings_only  median_rank 90%_rank_range      tier
+      Krunal Pandya   1.0     0.71                   0.96          6.0           1-24    Strong
+ Varun Chakravarthy   2.0     0.89                   1.00          3.0           1-16      Lock
+       Sunil Narine   3.0     0.83                   1.00          4.0           1-20      Lock
+     Jasprit Bumrah   4.0     0.73                   0.91          5.0           1-26    Strong
+      Kuldeep Yadav   5.0     0.68                   0.99          7.0           1-28    Strong
+Matheesha Pathirana   6.0     0.58                   1.00          9.0           2-27    Strong
+     Josh Hazlewood   7.0     0.55                   0.93          9.0           1-46    Strong
+  Mustafizur Rahman   8.0     0.33                   0.65         14.0           4-33 Contender
+  Bhuvneshwar Kumar   9.0     0.37                   0.57         14.0           3-46 Contender
+        Rashid Khan  10.0     0.54                   0.74          9.5           2-38    Strong
+        Trent Boult  11.0     0.15                   0.08         24.0           6-60 Long shot
+       Nathan Ellis  12.0     0.18                   0.07         21.0           5-51 Long shot
+         Axar Patel  13.0     0.22                   0.23         18.0           5-52 Long shot
+      Eshan Malinga  14.0     0.11                   0.02         20.0           5-56 Long shot
+         Noor Ahmad  15.0     0.35                   0.28         15.0           3-56 Contender
+

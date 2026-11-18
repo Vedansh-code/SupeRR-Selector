@@ -1,0 +1,467 @@
+{
+  "alpha": 1000,
+  "weighting": {
+    "recency_decay": 0.1,
+    "comp": {
+      "IPL": 1.0,
+      "T20I": 0.8,
+      "T20I_strong": 1.0
+    },
+    "strong_t20i_teams": [
+      "India",
+      "Australia",
+      "England",
+      "South Africa",
+      "New Zealand"
+    ],
+    "opponent": [
+      0.5,
+      1.0
+    ]
+  },
+  "bat": {
+    "k_lg": 855,
+    "k_prior": 1006,
+    "k_baseline": 595,
+    "ref_date": "2026-11-01",
+    "evidence_share_median": 0.691,
+    "opponents": [
+      {
+        "team": "Mumbai Indians",
+        "tier": "IPL",
+        "balls": 8496,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "India",
+        "tier": "Full",
+        "balls": 12899,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "Royal Challengers Bengaluru",
+        "tier": "IPL",
+        "balls": 8670,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "Kolkata Knight Riders",
+        "tier": "IPL",
+        "balls": 7838,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "Delhi Capitals",
+        "tier": "IPL",
+        "balls": 8146,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "Gujarat Titans",
+        "tier": "IPL",
+        "balls": 8847,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "Afghanistan",
+        "tier": "Full",
+        "balls": 5949,
+        "strength": 0.997,
+        "weight": 0.999
+      },
+      {
+        "team": "Chennai Super Kings",
+        "tier": "IPL",
+        "balls": 8318,
+        "strength": 0.987,
+        "weight": 0.994
+      },
+      {
+        "team": "Pakistan",
+        "tier": "Full",
+        "balls": 9910,
+        "strength": 0.976,
+        "weight": 0.988
+      },
+      {
+        "team": "Lucknow Super Giants",
+        "tier": "IPL",
+        "balls": 8247,
+        "strength": 0.911,
+        "weight": 0.956
+      },
+      {
+        "team": "Rajasthan Royals",
+        "tier": "IPL",
+        "balls": 8923,
+        "strength": 0.891,
+        "weight": 0.946
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "tier": "IPL",
+        "balls": 8389,
+        "strength": 0.887,
+        "weight": 0.943
+      },
+      {
+        "team": "Sri Lanka",
+        "tier": "Full",
+        "balls": 7841,
+        "strength": 0.884,
+        "weight": 0.942
+      },
+      {
+        "team": "Punjab Kings",
+        "tier": "IPL",
+        "balls": 8247,
+        "strength": 0.862,
+        "weight": 0.931
+      },
+      {
+        "team": "Zimbabwe",
+        "tier": "Full",
+        "balls": 5706,
+        "strength": 0.827,
+        "weight": 0.913
+      },
+      {
+        "team": "Australia",
+        "tier": "Full",
+        "balls": 6564,
+        "strength": 0.813,
+        "weight": 0.907
+      },
+      {
+        "team": "New Zealand",
+        "tier": "Full",
+        "balls": 9094,
+        "strength": 0.766,
+        "weight": 0.883
+      },
+      {
+        "team": "Bangladesh",
+        "tier": "Full",
+        "balls": 8424,
+        "strength": 0.752,
+        "weight": 0.876
+      },
+      {
+        "team": "England",
+        "tier": "Full",
+        "balls": 7384,
+        "strength": 0.739,
+        "weight": 0.869
+      },
+      {
+        "team": "South Africa",
+        "tier": "Full",
+        "balls": 5934,
+        "strength": 0.681,
+        "weight": 0.84
+      },
+      {
+        "team": "Ireland",
+        "tier": "Full",
+        "balls": 5164,
+        "strength": 0.576,
+        "weight": 0.788
+      },
+      {
+        "team": "West Indies",
+        "tier": "Full",
+        "balls": 10150,
+        "strength": 0.561,
+        "weight": 0.781
+      },
+      {
+        "team": "United Arab Emirates",
+        "tier": "Associate",
+        "balls": 2294,
+        "strength": 0.081,
+        "weight": 0.541
+      },
+      {
+        "team": "Scotland",
+        "tier": "Associate",
+        "balls": 606,
+        "strength": 0.028,
+        "weight": 0.514
+      },
+      {
+        "team": "Netherlands",
+        "tier": "Associate",
+        "balls": 1394,
+        "strength": 0.018,
+        "weight": 0.509
+      },
+      {
+        "team": "Canada",
+        "tier": "Associate",
+        "balls": 338,
+        "strength": 0.0,
+        "weight": 0.5
+      },
+      {
+        "team": "Hong Kong",
+        "tier": "Associate",
+        "balls": 943,
+        "strength": 0.0,
+        "weight": 0.5
+      },
+      {
+        "team": "Oman",
+        "tier": "Associate",
+        "balls": 360,
+        "strength": 0.0,
+        "weight": 0.5
+      },
+      {
+        "team": "Kuwait",
+        "tier": "Associate",
+        "balls": 345,
+        "strength": 0.0,
+        "weight": 0.5
+      },
+      {
+        "team": "United States Of America",
+        "tier": "Associate",
+        "balls": 481,
+        "strength": 0.0,
+        "weight": 0.5
+      }
+    ]
+  },
+  "bowl": {
+    "k_lg": 720,
+    "k_prior": 1818,
+    "k_baseline": 829,
+    "ref_date": "2026-11-01",
+    "evidence_share_median": 0.704,
+    "opponents": [
+      {
+        "team": "Mumbai Indians",
+        "tier": "IPL",
+        "balls": 8503,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "England",
+        "tier": "Full",
+        "balls": 7113,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "Rajasthan Royals",
+        "tier": "IPL",
+        "balls": 8717,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "Royal Challengers Bengaluru",
+        "tier": "IPL",
+        "balls": 8632,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "India",
+        "tier": "Full",
+        "balls": 12735,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "Gujarat Titans",
+        "tier": "IPL",
+        "balls": 8959,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "Australia",
+        "tier": "Full",
+        "balls": 5994,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "Sunrisers Hyderabad",
+        "tier": "IPL",
+        "balls": 8290,
+        "strength": 1.0,
+        "weight": 1.0
+      },
+      {
+        "team": "Lucknow Super Giants",
+        "tier": "IPL",
+        "balls": 8434,
+        "strength": 0.979,
+        "weight": 0.99
+      },
+      {
+        "team": "Kolkata Knight Riders",
+        "tier": "IPL",
+        "balls": 7516,
+        "strength": 0.933,
+        "weight": 0.966
+      },
+      {
+        "team": "West Indies",
+        "tier": "Full",
+        "balls": 9955,
+        "strength": 0.931,
+        "weight": 0.965
+      },
+      {
+        "team": "Delhi Capitals",
+        "tier": "IPL",
+        "balls": 8035,
+        "strength": 0.927,
+        "weight": 0.964
+      },
+      {
+        "team": "South Africa",
+        "tier": "Full",
+        "balls": 5908,
+        "strength": 0.927,
+        "weight": 0.964
+      },
+      {
+        "team": "New Zealand",
+        "tier": "Full",
+        "balls": 9059,
+        "strength": 0.922,
+        "weight": 0.961
+      },
+      {
+        "team": "Punjab Kings",
+        "tier": "IPL",
+        "balls": 8354,
+        "strength": 0.916,
+        "weight": 0.958
+      },
+      {
+        "team": "Chennai Super Kings",
+        "tier": "IPL",
+        "balls": 8302,
+        "strength": 0.882,
+        "weight": 0.941
+      },
+      {
+        "team": "Pakistan",
+        "tier": "Full",
+        "balls": 10067,
+        "strength": 0.837,
+        "weight": 0.918
+      },
+      {
+        "team": "Sri Lanka",
+        "tier": "Full",
+        "balls": 8116,
+        "strength": 0.819,
+        "weight": 0.909
+      },
+      {
+        "team": "Bangladesh",
+        "tier": "Full",
+        "balls": 8617,
+        "strength": 0.748,
+        "weight": 0.874
+      },
+      {
+        "team": "Afghanistan",
+        "tier": "Full",
+        "balls": 5990,
+        "strength": 0.704,
+        "weight": 0.852
+      },
+      {
+        "team": "Ireland",
+        "tier": "Full",
+        "balls": 4994,
+        "strength": 0.701,
+        "weight": 0.851
+      },
+      {
+        "team": "Zimbabwe",
+        "tier": "Full",
+        "balls": 5990,
+        "strength": 0.668,
+        "weight": 0.834
+      },
+      {
+        "team": "United Arab Emirates",
+        "tier": "Associate",
+        "balls": 2305,
+        "strength": 0.062,
+        "weight": 0.531
+      },
+      {
+        "team": "Hong Kong",
+        "tier": "Associate",
+        "balls": 884,
+        "strength": 0.047,
+        "weight": 0.523
+      },
+      {
+        "team": "Netherlands",
+        "tier": "Associate",
+        "balls": 1368,
+        "strength": 0.0,
+        "weight": 0.5
+      },
+      {
+        "team": "Scotland",
+        "tier": "Associate",
+        "balls": 689,
+        "strength": 0.0,
+        "weight": 0.5
+      },
+      {
+        "team": "Canada",
+        "tier": "Associate",
+        "balls": 480,
+        "strength": 0.0,
+        "weight": 0.5
+      },
+      {
+        "team": "Nepal",
+        "tier": "Associate",
+        "balls": 359,
+        "strength": 0.0,
+        "weight": 0.5
+      },
+      {
+        "team": "Singapore",
+        "tier": "Associate",
+        "balls": 350,
+        "strength": 0.0,
+        "weight": 0.5
+      },
+      {
+        "team": "Oman",
+        "tier": "Associate",
+        "balls": 332,
+        "strength": 0.0,
+        "weight": 0.5
+      },
+      {
+        "team": "United States Of America",
+        "tier": "Associate",
+        "balls": 329,
+        "strength": 0.0,
+        "weight": 0.5
+      }
+    ]
+  }
+}

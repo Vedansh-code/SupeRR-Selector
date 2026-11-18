@@ -1,0 +1,106 @@
+player_id,name,rank,rating,median_position,innings,role
+3647,Shreyas Iyer,1.0,2.924696121680995,4.0,98,Top order
+1699,Suryakumar Yadav,2.0,2.435265021254303,4.0,139,Top order
+4260,Heinrich Klaasen,3.0,2.315392447622459,5.0,72,Middle order
+47,Virat Kohli,4.0,1.7304659482185913,2.0,92,Opener
+6396,Tim David,5.0,1.6584151412273858,6.0,98,Middle order
+6281,Abhishek Sharma,6.0,1.3765640597392987,2.0,130,Opener
+8101,Ashutosh Sharma,7.0,1.2314831355397713,7.0,26,Finisher
+7897,Namboori Tilak Varma,8.0,1.1270099316579634,5.0,123,Middle order
+5939,Cameron Green,9.0,1.0478758075975478,4.0,63,Top order
+6819,Yashasvi Jaiswal,10.0,0.9930434184436611,1.0,89,Opener
+126,Rohit Sharma,11.0,0.9064866909471312,2.0,91,Opener
+2756,Shashank Singh,12.0,0.90207229643033,6.0,42,Middle order
+25213,Dewald Brevis,13.0,0.7583371760741855,4.0,40,Top order
+4409,Sam Curran,14.0,0.7565512055213927,6.0,59,Middle order
+6423,Riyan Parag,15.0,0.750673343872774,4.0,69,Top order
+1318,Andre Russell,16.0,0.7370432352092868,7.0,57,Finisher
+6288,Shubman Gill,17.0,0.7249693190649293,2.0,112,Opener
+4853,Glenn Phillips,18.0,0.7246474557398834,4.0,56,Top order
+4823,Washington Sundar,19.0,0.6439853848361059,6.0,48,Middle order
+3125,Nicholas Pooran,20.0,0.620042454589248,4.0,115,Top order
+768,Reeza Hendricks,21.0,0.6032293074041546,2.0,34,Opener
+6676,Azmatullah Omarzai,22.0,0.57138000338603,6.0,53,Middle order
+1101,George Dockrell,23.0,0.5415891372299968,6.0,42,Middle order
+37052,Naman Dhir,24.0,0.5344027743026909,6.0,42,Middle order
+4722,Rashid Khan,25.0,0.49062671180460155,8.0,71,Finisher
+20702,Tristan Stubbs,26.0,0.4662214606134269,5.0,69,Middle order
+6280,Harry Brook,27.0,0.4620814298066006,4.0,56,Top order
+5553,Phil Salt,28.0,0.4432011730028471,1.0,84,Opener
+4986,Rovman Powell,29.0,0.4321954988205347,5.0,100,Middle order
+6651,Towhid Hridoy,30.0,0.36862253573366344,4.0,50,Top order
+4812,Harry Tector,31.0,0.3488587391636331,4.0,45,Top order
+2463,Ryan Burl,32.0,0.31715402453474334,5.0,42,Middle order
+4736,Josh Inglis,33.0,0.2636956654204214,3.0,56,Top order
+2984,Sikandar Raza,34.0,0.22497565291377683,4.0,57,Top order
+2436,Dasun Shanaka,35.0,0.2215959513620835,6.0,61,Middle order
+3330,Hardik Pandya,36.0,0.2190050682858083,5.0,118,Middle order
+2258,Sanju Samson,37.0,0.2150682148535969,3.0,124,Top order
+3916,Jitesh Sharma,38.0,0.15412645874491304,6.0,69,Middle order
+1077,David Miller,39.0,0.1259871182870212,5.0,81,Middle order
+6931,Pathum Nissanka,40.0,0.09831139696655647,1.0,75,Opener
+7446,Abdul Samad,41.0,0.06678273837895213,7.0,41,Finisher
+7216,Prabhsimran Singh,42.0,0.04853793137099295,2.0,60,Opener
+7059,Nehal Wadhera,43.0,-0.014674222167490689,5.0,37,Middle order
+2003,Bhanuka Rajapaksa,44.0,-0.06579803501024256,4.0,31,Top order
+813,Jos Buttler,45.0,-0.07633863630589345,2.0,121,Opener
+23450,Sai Sudharsan,46.0,-0.09171287933489147,1.0,57,Opener
+3374,Mark Chapman,47.0,-0.09556281353037328,5.0,53,Middle order
+7094,Curtis Campher,48.0,-0.09804548644709134,5.0,35,Middle order
+2877,Vijay Shankar,49.0,-0.10458090149719232,5.0,26,Middle order
+1107,Mohammad Nabi,50.0,-0.11709234370343392,6.0,50,Middle order
+4391,Liam Livingstone,51.0,-0.11832899688706482,5.0,68,Middle order
+3672,Kusal Mendis,52.0,-0.12413474215798885,2.0,67,Opener
+4219,Krunal Pandya,53.0,-0.15468816884590386,6.0,54,Middle order
+7903,Shamim Hossain,54.0,-0.1672695251680118,6.0,34,Middle order
+4854,Rachin Ravindra,55.0,-0.16925512216147953,2.5,44,Top order
+2921,Fakhar Zaman,56.0,-0.177849742799446,3.0,47,Top order
+4708,Rinku Singh,57.0,-0.19535674325812702,6.0,83,Middle order
+4106,Daryl Mitchell,58.0,-0.20023906611335585,4.0,69,Top order
+4369,Shai Hope,59.0,-0.2139117676965751,3.0,58,Top order
+1481,Kusal Perera,60.0,-0.22189014445347682,3.0,32,Top order
+2490,Mohammad Nawaz,61.0,-0.26407498534186413,7.0,46,Finisher
+3926,Rahul Tewatia,62.0,-0.29806854748950573,6.0,57,Middle order
+3489,Salman Agha,63.0,-0.32736403618872867,4.0,42,Top order
+4904,Kamindu Mendis,64.0,-0.3654316881324082,5.0,38,Middle order
+953,Lokesh Rahul,65.0,-0.36807344724334906,2.0,74,Opener
+152,Ravindra Jadeja,66.0,-0.4733055187985854,6.0,65,Middle order
+6314,Devdutt Padikkal,67.0,-0.4894851969530118,3.0,60,Top order
+4773,Jaker Ali Anik,68.0,-0.4975165242587289,6.0,34,Middle order
+3323,Jimmy Neesham,69.0,-0.5053423763813825,6.0,38,Middle order
+4246,Nitish Rana,70.0,-0.5095925910764509,4.0,50,Top order
+3297,Shimron Hetmyer,71.0,-0.518484753012963,5.0,94,Middle order
+8,Mahendra Singh Dhoni,72.0,-0.5269812911175452,7.0,48,Finisher
+2485,Babar Azam,73.0,-0.5291284988047031,2.0,52,Opener
+6725,Sherfane Rutherford,74.0,-0.5327248780628184,5.0,56,Middle order
+3782,M Shahrukh Khan,75.0,-0.533229631284487,6.0,43,Middle order
+7260,Dhruv Jurel,76.0,-0.5727504601504491,5.0,54,Middle order
+23311,Jacob Bethell,77.0,-0.610780794561961,3.0,33,Top order
+6726,Romario Shepherd,78.0,-0.6282771257490434,7.0,68,Finisher
+2876,Axar Patel,79.0,-0.6547253799755686,7.0,105,Finisher
+5039,Rajat Patidar,80.0,-0.7074980403602232,4.0,48,Top order
+4117,Ishan Kishan,81.0,-0.7208695463361194,2.0,122,Opener
+6059,Ruturaj Gaikwad,82.0,-0.7370439893854067,2.0,77,Opener
+4703,Rishabh Pant,83.0,-0.7384576471915962,4.0,73,Top order
+8221,Nitish Reddy,84.0,-0.7700830358639521,5.0,45,Middle order
+6460,Ayush Badoni,85.0,-0.7781852691867462,6.0,56,Middle order
+1440,Rahul Tripathi,86.0,-0.7858844348384556,3.0,43,Top order
+1596,Moeen Ali,87.0,-0.844381420819204,5.0,53,Middle order
+4755,Shivam Dube,88.0,-0.850274003836223,5.0,98,Middle order
+7544,Venkatesh Iyer,89.0,-0.8574997649895788,3.0,55,Top order
+4101,Mitchell Santner,90.0,-0.864849585639407,7.0,57,Finisher
+818,Mitchell Marsh,91.0,-0.869984000314987,2.0,82,Opener
+2101,Quinton de Kock,92.0,-0.9242258750141169,1.0,66,Opener
+305,Ravichandran Ashwin,93.0,-0.9652602320723321,7.0,37,Finisher
+2687,Roston Chase,94.0,-1.0483456961688746,4.5,36,Middle order
+3605,Aiden Markram,95.0,-1.1333418471552295,4.0,94,Top order
+167,Ajinkya Rahane,96.0,-1.136507484221046,3.0,56,Top order
+2633,Jason Holder,97.0,-1.13653370269697,7.0,59,Finisher
+1941,Devon Conway,98.0,-1.3379000274533364,2.0,61,Opener
+7472,Shahbaz Ahmed,99.0,-1.4001973971804298,6.0,32,Middle order
+4900,Wanindu Hasaranga,100.0,-1.4083825965368568,7.0,62,Finisher
+6448,Ibrahim Zadran,101.0,-1.4149672526134096,3.0,47,Top order
+3648,Deepak Hooda,102.0,-1.4919418719096609,4.0,55,Top order
+838,Glenn Maxwell,103.0,-1.5334845140156939,4.0,75,Top order
+4895,Charith Asalanka,104.0,-1.7307015058837527,5.0,53,Middle order
+2639,Marcus Stoinis,105.0,-1.7742202564959646,5.0,89,Middle order

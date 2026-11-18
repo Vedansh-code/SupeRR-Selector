@@ -1,0 +1,38 @@
+{
+  "bat": {
+    "weights": {
+      "value": 53.75,
+      "consistency": 23.75,
+      "clutch": 0.0,
+      "impact": 17.5,
+      "volume": 5.0
+    },
+    "clutch_observed": 1183.8,
+    "clutch_noise": 1332.9,
+    "pool_success": 0.6,
+    "value_source": "blend",
+    "recent_years": [
+      2024,
+      2025,
+      2026
+    ]
+  },
+  "bowl": {
+    "weights": {
+      "value": 55.0,
+      "consistency": 5.0,
+      "clutch": 15.0,
+      "impact": 15.0,
+      "volume": 10.0
+    },
+    "clutch_observed": 1667.6,
+    "clutch_noise": 1541.1,
+    "pool_success": 0.513,
+    "value_source": "p_shrunk",
+    "recent_years": [
+      2024,
+      2025,
+      2026
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "n_reps": 500,
+  "bat": {
+    "tiers": {
+      "Lock": 3,
+      "Contender": 3,
+      "Strong": 3,
+      "Long shot": 1
+    },
+    "best_outside": [
+      {
+        "name": "Nicholas Pooran",
+        "rank": 20.0,
+        "p_top10": 0.274
+      },
+      {
+        "name": "Rovman Powell",
+        "rank": 29.0,
+        "p_top10": 0.266
+      },
+      {
+        "name": "Shashank Singh",
+        "rank": 12.0,
+        "p_top10": 0.244
+      }
+    ]
+  },
+  "bowl": {
+    "tiers": {
+      "Strong": 5,
+      "Lock": 3,
+      "Contender": 2
+    },
+    "best_outside": [
+      {
+        "name": "Mustafizur Rahman",
+        "rank": 11.0,
+        "p_top10": 0.226
+      },
+      {
+        "name": "Axar Patel",
+        "rank": 14.0,
+        "p_top10": 0.21
+      },
+      {
+        "name": "Mitchell Santner",
+        "rank": 20.0,
+        "p_top10": 0.208
+      }
+    ]
+  }
+}
